@@ -7,4 +7,5 @@ The laboratory workflow included:
 4. wet sieving for >1 mm, 63-100 μm and 100-1000 μm
 5. grain analysis for the fraction >1 mm
 6. foraminifera analysis for 63-100 μm: count of 100 benthic foraminfera per sample, species identification, amount of foraminifera per gramms of sample
+
 The uploaded data represent the results of the analysis and serve as a basis for furter work.
